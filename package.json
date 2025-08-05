@@ -1,0 +1,13 @@
+{
+  "name": "@hekimadigitalagency/flowsliders",
+  "version": "1.0.2",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "main": "./index.js",
+  "author": "Bulumko Papu",
+  "license": "MIT",
+  "description": "A lightweight slider and carousel library for Webflow using GSAP and JS with attribute-based setup",
+  "keywords": ["webflow", "slider", "carousel", "gsap", "flowsliders", "hekimadigitalagency"]
+}
