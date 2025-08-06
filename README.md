@@ -15,7 +15,7 @@ Paste this script tag into your Webflow project (before the `</body>` tag):
 Add the attribute to your slider wrapper:
 
 ```html
-<div data-slider="slider-001">
+<div data-slider="slider001">
   <!-- Your Webflow slider structure -->
 </div>
 ```
