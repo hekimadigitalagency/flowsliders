@@ -32,8 +32,8 @@ Add the attribute to your slider wrapper:
 
 | Slider ID | Description |
 |-----------|-------------|
-| slider-001 | Basic Slide Carousel |
-| slider-002 | Coming soon |
+| slider001 | Basic Slide Carousel |
+| slider002 | Coming soon |
 
 More sliders coming soon. Stay tuned!
 
